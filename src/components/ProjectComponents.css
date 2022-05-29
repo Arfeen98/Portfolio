@@ -1,0 +1,14 @@
+.all-projects>p{
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 30px;
+}
+.all-projects>P:hover{
+ transition: 0.8s;
+ color: gray;
+}
+
+.all-projects{
+scroll-margin-top: 70px;
+}
