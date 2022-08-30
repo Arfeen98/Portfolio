@@ -79,10 +79,10 @@ alt="Arfeen" height="30"/></a></>
     <h2 align="left">You Can Reach Me By:</h2>
     <p align="left">
       <br/>
-      <a href="linkedin.com/in/arfeen-mushtaque-7a5988225/" target="blank"><img align="center"
+      <a href="linkedin.com/in/arfeen-mushtaque-7a5988225/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Arfeen" height="30"/></a>
-      <a href="https://arfeenmushtaque1998@gmail.com" target="blank"><img align="center"
+      <a href="https://arfeenmushtaque1998@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Arfeen" height="30"/></a>
     </p>
