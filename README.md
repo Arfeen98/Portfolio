@@ -14,8 +14,8 @@ alt="Arfeen" height="30"/></a></>
 
 <table>
    <tr>
-     <h3>For Cell Phone</h3>
-     <h3>For Large Screens</h3>
+     <td>For Large Screens</td>
+     <td>For Cell Phone</td>
    </tr>
   <tr>
     <td><img src="./Image/Top.png" alt="home" /></td>
