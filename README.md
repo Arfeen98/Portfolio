@@ -18,19 +18,19 @@ alt="Arfeen" height="30"/></a></>
      <td>For Cell Phone</td>
    </tr>
   <tr>
-    <td><img height='350px' src="./Image/Top.png" alt="home" /></td>
+    <td><img height='400px' src="./Image/Top.png" alt="home" /></td>
     <td><img src="./Image/topMobile.png" alt="home" /></td>
   </tr>
   <tr>
-    <td><img height='350px' src="./Image/about.png" alt="About" /></td>
+    <td><img height='400px' src="./Image/about.png" alt="About" /></td>
     <td><img src="./Image/aboutMobile.png" alt="About" /></td>
   </tr>
   <tr>
-    <td><img height='350px' src="./Image/skills.png" alt="Skills" /></td>
+    <td><img height='400px' src="./Image/skills.png" alt="Skills" /></td>
     <td><img src="./Image/skillsMobile.png" alt="Skills" /></td>
   </tr>
   <tr>
-    <td><img height='350px' src="./Image/projects.png" alt="Projects" /></td>
+    <td><img height='400px' src="./Image/projects.png" alt="Projects" /></td>
     <td><img src="./Image/ProjectsMobile.png" alt="Projects" /></td>
   </tr>
  
