@@ -12,7 +12,7 @@ export default function Skills() {
            <SkillComponents name ="HTML" icon="fab fa-html5"/>
            <SkillComponents name ="CSS" icon="fab fa-css3-alt"/>
            <SkillComponents name ="JS" icon="fab fa-js"/>
-           <SkillComponents name ="BOOTSTRAP" icon="fab fa-bootstrap"/>
+           <SkillComponents name ="Node.js" icon="fab fa-node-js"/>
          
            <SkillComponents  name ="REACT" icon="fab fa-react"/>
            <SkillComponents name ="GIT" icon="fab fa-git-alt"/>
