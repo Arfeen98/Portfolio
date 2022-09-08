@@ -9,14 +9,7 @@ export default function MyDetails() {
             <p className='me'>About Me</p>
             <img src={img1} alt="" />
             <p className='mydetails'>
-            An aspiring full-stack web developer from Masai School specializing
-in MERN Stack. Self-motivated, logical, curious, observant,
-multitasking, problem-solving, team player with the technical skills
-to write web-based products using JavaScript, CSS, and MERN.
-Having a deep passion for coding and looking for a job opportunity
-in a technology-driven organization that would help enhance my
-career and technical knowledge while simultaneously showcasing
-my technical skills to the best of my ability.
+            Dedicated and efficient aspiring full-stack web developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of Bootcamp structure, learning MERN Stack and Data Structures and Algorithms along with 5+ collaborative projects and a personal project. Eager to tackle web development challenges to achieve lasting impacts on user experience and to grow technical knowledge simultaneously.
             </p>
         </div>
     )
