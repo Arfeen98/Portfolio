@@ -4,7 +4,6 @@ import "./ProjectComponents.css";
 import Mamaearth from "./Projects-pic/Mamaearth.png";
 import BathBody from "./Projects-pic/BathBody.png";
 import Fitmeal from "./Projects-pic/Fitmeal.png";
-import IndianExpress from "./Projects-pic/IndianExpress.png";
 import Clockify from "./Projects-pic/Clockify.png";
 
 export default function ProjectComponents() {
@@ -47,14 +46,6 @@ const project4 = ["fab fa-js","fab fa-react","fab fa-node"]
       arr={project3}
       github="https://github.com/Arfeen98/FitMealsCLone"
       website="https://fit-meals.netlify.app/"
-      />
-      <Projects
-      preview={IndianExpress}
-      title="The Indian Express Clone"
-      description="Indian Express Limited is an Indian news media publishing company. It publishes several widely circulated dailies, including The Indian Express and The Financial Express in English, the Loksatta in Marathi and the Jansatta in Hindi."
-      arr={project3}
-      github="https://github.com/Arfeen98/The-Indian-Express-Clone"
-      website="https://github.com/Arfeen98/The-Indian-Express-Clone#readme"
       />
       <Projects
       preview={BathBody}

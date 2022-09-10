@@ -11,14 +11,15 @@
   /* color: white; */
   text-align: center;
   font-weight: bold;
+  cursor: pointer;
 }
 .skills p:hover{
-  transition: 0.8s;
-  color: gray;
+  transition: 0.5s;
+  color: white;
 }
 
 .tools {
-  width: 500px;
+  width: 700px;
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
@@ -30,20 +31,20 @@
   font-size: 40px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 740px) {
   .skills {
     margin: 20px;
     padding: 40px 0;
   }
   .tools {
-    gap: 15px;
-    width: 300px;
+    gap: 10px;
+    width:90%;
   }
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 400px) {
   .tools {
-    width: 200px;
+    width: 100%;
   }
   .details img {
     width: 100px;
