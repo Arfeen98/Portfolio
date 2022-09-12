@@ -14,7 +14,6 @@ import bootstrap from './static/bootstrap.png'
 import typescript from './static/typescript.png'
 import cypress from './static/cypress.png'
 import jest from './static/jest.png'
-import material from './static/material ui.png'
 import"./Skills.css"
 import SkillComponents from './SkillComponents'
 

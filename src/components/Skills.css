@@ -13,10 +13,6 @@
   font-weight: bold;
   cursor: pointer;
 }
-.skills p:hover{
-  transition: 0.5s;
-  color: white;
-}
 
 .tools {
   width: 700px;

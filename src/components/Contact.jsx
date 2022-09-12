@@ -19,10 +19,6 @@ export default function Contact() {
           <a target="_blank" rel='noreferrer' href="https://twitter.com/ArfeenMushtaque">
             <i style={{color:'black',fontSize:'60px'}} className="fab fa-twitter"></i>
           </a>
-          {/* <a target="_blank" rel='noreferrer' href="https://link.medium.com/LONzgawkoqb">
-            <i style={{color:'black',marginTop:'25px'}} className="fa-brands fa-medium fa-xl"></i>
-          </a> */}
-            {/* <i style={{color:'black',marginTop:'25px'}} className="fa-brands fa-medium fa-xl"></i> */}
         </div>
       </div>
       <div className="copyright">

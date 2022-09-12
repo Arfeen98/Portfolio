@@ -12,6 +12,7 @@ export default function AboutMe() {
       <div className="info">
         <p>Hey there!</p>
         <p>I am Arfeen Mushtaque</p>
+        <p>Full-Stack Web Developer</p>
          <a href="#connect"><button> Connect </button></a>
       </div>
 

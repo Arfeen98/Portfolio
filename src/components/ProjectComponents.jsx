@@ -21,7 +21,7 @@ const project4 = ["fab fa-js","fab fa-react","fab fa-node"]
       description="Clockify is the most popular free time tracker and timesheet app for teams of all sizes. Unlike all the other time trackers, Clockify lets you have an unlimited number of users for free. Clockify is an online app that works in a browser, but you can also install it on your computer or phone for convenience."
       arr={project4}
       github="https://github.com/J-Prajwal/clockifyClone-fixedThread"
-      website="https://clockify-fixedthread.netlify.app/"
+      website="https://fixedthread-clockify.netlify.app"
       />
       <Projects
       preview={Mamaearth}
@@ -37,7 +37,7 @@ const project4 = ["fab fa-js","fab fa-react","fab fa-node"]
         description="Bath & Body Works, LLC. is an American web application that caters premium soaps, lotions, fragrances, and candles."
         arr={project3}
         github="https://github.com/Arfeen98/rainy-scissors-3404"
-        website="https://regal-stardust-d954b0.netlify.app"
+        website="https://bath-and-body-works.netlify.app/"
         />
       <Projects
       preview={Fitmeal}

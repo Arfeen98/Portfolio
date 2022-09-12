@@ -14,7 +14,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
+  cursor: pointer;
 }
 .skill-comp img{
   width: 48px;
