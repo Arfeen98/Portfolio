@@ -9,6 +9,17 @@
   font-family: sans-serif;
 
 }
+.details1 {
+  padding: 40px;
+  box-sizing: border-box;
+  text-align: center;
+  background-image: linear-gradient(-45deg, white, white);
+  /* background-image: linear-gradient(-45deg,whitesmoke,black); */
+  background-size: 200%;
+  scroll-margin-top: 60px;
+  font-family: sans-serif;
+
+}
 .me {
   font-size: 30px;
   color: black;
@@ -27,10 +38,23 @@
   color: black;
 
 }
+.mydetails1 {
+  width: 60%;
+  /* border: 2px solid; */
+  margin: auto;
+  color: black;
+  margin-top: 10px;
+
+}
 
 @media only screen and (max-width: 600px) {
     .mydetails{
         width: 100%;
         text-align: left;
+      }
+    .mydetails1{
+        width: 100%;
+        text-align: left;
+        margin-top: 10px;
       }
 }

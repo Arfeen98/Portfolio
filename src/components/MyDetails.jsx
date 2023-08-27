@@ -9,7 +9,7 @@ export default function MyDetails() {
             <p className='me'>About Me</p>
             <img src={img1} alt="" />
             <p className='mydetails'>
-            Dedicated and efficient aspiring full-stack web developer with the ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of Bootcamp structure, learning MERN Stack and Data Structures and Algorithms along with 5+ collaborative projects and a personal project. Eager to tackle web development challenges to achieve lasting impacts on user experience and to grow technical knowledge simultaneously.
+            Passionate front-end developer with a proven track record of experience in building engaging and efficient web applications using React.js. Eager to bring my strong technical acumen, creativity, and dedication to crafting seamless user experiences to a forward-looking development team. Seeking an environment that fosters innovation and offers opportunities for continuous learning and growth.
             </p>
         </div>
     )

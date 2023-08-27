@@ -14,12 +14,13 @@ export default function NavBar() {
            <i className="fas fa-bars"></i>
            </label>
            <ul>
-               <li onClick={uncheck}> <i className="far fa-address-card"></i> <a href="#HOME"> Home </a></li>
+               <li onClick={uncheck}> <i className="fas fa-house-user"></i> <a href="#HOME"> Home </a></li>
                <li onClick={uncheck}> <i className="far fa-address-card"></i> <a href="#ABOUT"> About </a></li>
+               <li onClick={uncheck}> <i className="fas fa-briefcase"></i> <a href="#EXPERIENCE"> Work Experience </a></li>
                <li onClick={uncheck}> <i className="fas fa-sitemap"></i> <a href="#SKILLS"> Skills </a></li>
                <li onClick={uncheck}> <i className="fas fa-laptop"></i> <a href="#recent-work"> Projects </a></li>
                <li onClick={uncheck}> <i className="fas fa-id-card"></i> <a href="#connect"> Contact </a></li>
-               <li onClick={uncheck}> <i className="far fa-file-alt"></i><a target="_blank" rel='noreferrer' href="https://drive.google.com/file/d/1NjKm9AalSdvvHDofBBPZ27PvGd3OeXRQ/view?usp=sharing"> Resume </a> </li>
+               <li onClick={uncheck}> <i className="far fa-file-alt"></i><a target="_blank" rel='noreferrer' href="https://drive.google.com/file/d/1FhY8KzsW0hTdd9PG_deTdrMstwTruHh0/view?usp=sharing"> Resume </a> </li>
            </ul>
         </nav>
     )

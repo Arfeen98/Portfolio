@@ -5,6 +5,7 @@ import MyDetails from "./components/MyDetails.jsx";
 import Skills from "./components/Skills.jsx";
 import ProjectComponents from "./components/ProjectComponents.jsx";
 import Contact from "./components/Contact.jsx";
+import Experience from "./components/Experience.jsx";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <NavBar />
         <AboutMe />
         <MyDetails />
+        <Experience/>
         <Skills />
         <ProjectComponents />
         <Contact />
