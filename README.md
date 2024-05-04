@@ -7,7 +7,7 @@ alt="Arfeen" height="30"/></a></>
 <h2 align="left">About:</h2>
 <p align="left">An aspiring full-stack web developer with a specialization in MERN stack. Seeking to enhance and utilize my knowledge and skills for the best of the organization.</p>
 <p>You can see my Resume
-  <a href="https://drive.google.com/file/d/1yFgncrdNGBEKe5Augv2cNhwr61I0i3Z1/view?usp=sharing" target="blank">here</a>.
+  <a href="https://drive.google.com/file/d/1xmAq_yCCnjlGOXVAicFTA2e4mrTJY84L/view" target="blank">here</a>.
 </p>
 
 ## Glimpses of my Portfolio 🙈 :

@@ -20,7 +20,7 @@ export default function NavBar() {
                <li onClick={uncheck}> <i className="fas fa-sitemap"></i> <a href="#SKILLS"> Skills </a></li>
                <li onClick={uncheck}> <i className="fas fa-laptop"></i> <a href="#recent-work"> Projects </a></li>
                <li onClick={uncheck}> <i className="fas fa-id-card"></i> <a href="#connect"> Contact </a></li>
-               <li onClick={uncheck}> <i className="far fa-file-alt"></i><a target="_blank" rel='noreferrer' href="https://drive.google.com/file/d/1FhY8KzsW0hTdd9PG_deTdrMstwTruHh0/view?usp=sharing"> Resume </a> </li>
+               <li onClick={uncheck}> <i className="far fa-file-alt"></i><a target="_blank" rel='noreferrer' href="https://drive.google.com/file/d/1xmAq_yCCnjlGOXVAicFTA2e4mrTJY84L/view"> Resume </a> </li>
            </ul>
         </nav>
     )
