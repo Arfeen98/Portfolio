@@ -7,7 +7,7 @@ export default function Experience() {
     return (
         <div className='details1' id="EXPERIENCE">
             <p className='me'>Work Experience</p>
-            <h4 className='mydetails1'>Klizo Solution Pvt. ltd.(Kolkata) — Jr. MERN Developer — December 2023 to present</h4>
+            <h4 className='mydetails1'>Klizo Solution Pvt. ltd.(Kolkata) — Jr. MERN Developer — December 2023 to August 2024</h4>
             <ol className='mydetails1' > 
              <li style={{listStyleType:'initial',textAlign:'justify'}}>Orchestrated the development of <a href="https://chromewebstore.google.com/detail/compilerx-gpt-%E2%80%93-an-ai-pow/ompjagjmmkphcajnlbcmejmkoeajkiod" target='_blank' style={{color:'blue'}}>CompilerX-Gpt</a> extension which
 is present in the Chrome web store using React in TypeScript,
@@ -29,6 +29,13 @@ Redux extensively to ensure smooth collaboration and seamless
 frontend development within the team, fostering efficient
 communication and streamlined workflows.</li>
             </ol>
+            <h4 className='mydetails1'>Nextzen Minds Pvt. ltd.(Kolkata) — Software Developer — August 2024 to Present</h4>
+            <ol className='mydetails1'>  
+  <li style={{listStyleType:'initial', textAlign:'justify'}}>
+    Contributed significantly to the development of the <a href="http://103.160.144.217:3050" target="_blank" style={{color:'blue'}} rel="noopener noreferrer">NZCares</a> product, a micro-frontend architecture-based application built using React and TypeScript. Worked across all core modules including Patient, Doctor, Front-Desk, Nurse, Lab, Pharmacy, and User Management, employing Ant Design and Tailwind CSS for a polished and consistent UI. Demonstrated leadership by heading the Lab module development as a senior developer, effectively managing a team of three junior developers. Successfully completed the module well ahead of the deadline and achieved QA sign-off prior to the scheduled milestone.
+  </li>
+</ol>
+
         </div>
     )
 }
